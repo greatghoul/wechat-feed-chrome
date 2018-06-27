@@ -1,0 +1,11 @@
+{
+  "name": "wechat-feed-chrome",
+  "private": true,
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}

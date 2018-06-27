@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "wechat feed chrome",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "wechat feed",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "微信公众号订阅工具",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "wechat feed chrome",
+    "description": "The title of the browser action button"
+  }
+}
